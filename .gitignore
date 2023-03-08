@@ -1,3 +1,5 @@
 .env
-my_site/__pycache__/*
-polls/__pycache__/*
+del_cache
+my_site/__pycache__/*.pyc
+polls/__pycache__/*.pyc
+polls/migrations/__pycache__/__init__.cpython-310.pyc
