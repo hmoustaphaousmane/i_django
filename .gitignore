@@ -1,5 +1,4 @@
 .env
+db.sqlite3
 del_cache
-my_site/__pycache__/*.pyc
-polls/__pycache__/*.pyc
-polls/migrations/__pycache__/__init__.cpython-310.pyc
+*.pyc
